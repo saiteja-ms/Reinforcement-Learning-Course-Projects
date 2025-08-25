@@ -1,5 +1,0 @@
-gymnasium
-matplotlib
-numpy
-wandb
-scipy
